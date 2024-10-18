@@ -11,7 +11,7 @@
 
 **Tired of forgetting what you watch? What if you could turn your lectures into flashcards instantly?**
 
- With Manabu, you can transform any video content into engaging study materials, making learning easier and more effective. The name comes from the Japanese word for "learning".  Embrace a smarter way to retain knowledge and take your studying to the next level!
+No more sifting through hours of notes or struggling to remember key concepts; our tool does the heavy lifting for you. With Manabu, you can transform any video content into engaging study materials, making learning easier and more effective. The name comes from the Japanese word for "learning". Embrace a smarter way to retain knowledge and take your studying to the next level!
 
 ## Installation 
 
