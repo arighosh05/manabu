@@ -1,5 +1,5 @@
 <h1 align="center"> Manabu </h1>
-<p align="center"> an AI-powered tool that transforms videos into instant flashcards for smarter studying</p>
+<p align="center"> an educational tool that transforms videos into instant flashcards for smarter studying</p>
 
 <div align="center">
 
